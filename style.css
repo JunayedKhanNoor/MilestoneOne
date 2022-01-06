@@ -124,3 +124,27 @@ footer h1 {
 .fontOne {
   font-family: "Yeseva One", cursive;
 }
+.forum{
+  margin-bottom: 50px;
+  text-align: center;
+  
+}
+.input-div{
+  margin-top: 15px;
+  
+}
+.input-div label{
+  display: block;
+  
+}
+.input{
+  width: 300px;
+  background-color:lightgrey;
+  box-shadow: 2px 2px 1px black;
+}
+#button{
+  font-size: x-large;
+  margin-top: 8px;
+  color: white;
+  background-image: linear-gradient(black,gray);
+}
